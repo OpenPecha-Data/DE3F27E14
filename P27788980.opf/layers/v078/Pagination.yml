@@ -301,32 +301,32 @@ annotations:
     reference: ''
     span:
       start: 54358
-      end: 55528
+      end: 55530
     note_ref: 85076ac5f06d423794a52aba53524c11
   5c6df9cfedfb4194ab1b8f3297b76494:
     imgnum: 517
     reference: ''
     span:
-      start: 55530
-      end: 57145
+      start: 55532
+      end: 57147
   d697144c804441b8b7b68add723fada1:
     imgnum: 518
     reference: ''
     span:
-      start: 57147
-      end: 59073
+      start: 57149
+      end: 59075
   b81bfde12c1c4bd5ad673242894739dc:
     imgnum: 519
     reference: ''
     span:
-      start: 59075
-      end: 60918
+      start: 59077
+      end: 60920
   85076ac5f06d423794a52aba53524c11:
     imgnum: 520
     reference: ''
     span:
-      start: 60920
-      end: 61870
+      start: 60922
+      end: 61872
 local_ids:
   370a7fd106584de196d1f8586a3e9a5c: 200000
   bd690a21ce9245018f53c327e21ba720: 200001
